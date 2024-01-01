@@ -1,5 +1,0 @@
-{
-  "main_menu": {
-    "bottom_left": [{"text":"New Beginnings 1.23.0","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/new-beginnings"}}]
-  }
-}
