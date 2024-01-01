@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "cf1a4c814745d49d84416a010a7c516cf5c07d8d41066337643377ee5e72cd3c"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
@@ -298,6 +302,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3af8cfc57f091b27dec2425a7071a50c70d192fbfd7d9624dc15f01b4d6793ca"
 
 [[files]]
 file = "resourcepacks/New-Beginnings-Resources.pw.toml"
