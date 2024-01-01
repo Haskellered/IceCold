@@ -300,6 +300,10 @@ hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
 metafile = true
 
 [[files]]
+file = "nbicon.png"
+hash = "064b1858660d849d0f6181793e52b040162bb319deb3766440095725afb83d3e"
+
+[[files]]
 file = "options.txt"
 hash = "3fae054ebc6aa2197618fd0e58a9b1091469af1822cd3b2a0ee7dd3e1a23cf33"
 
