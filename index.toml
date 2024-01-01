@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3af8cfc57f091b27dec2425a7071a50c70d192fbfd7d9624dc15f01b4d6793ca"
+hash = "3fae054ebc6aa2197618fd0e58a9b1091469af1822cd3b2a0ee7dd3e1a23cf33"
 
 [[files]]
 file = "resourcepacks/New-Beginnings-Resources.pw.toml"
