@@ -1,0 +1,13 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.7.1-fabric-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/YfCDEJzW/Ping-Wheel-1.7.1-fabric-1.20.4.jar"
+hash-format = "sha1"
+hash = "4d394584bffc65441cd32c6e717901d33dadfac2"
+
+[update]
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "YfCDEJzW"
