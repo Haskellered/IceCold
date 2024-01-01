@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
+file = "icon.png"
+hash = "064b1858660d849d0f6181793e52b040162bb319deb3766440095725afb83d3e"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
@@ -298,10 +302,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
 metafile = true
-
-[[files]]
-file = "nbicon.png"
-hash = "064b1858660d849d0f6181793e52b040162bb319deb3766440095725afb83d3e"
 
 [[files]]
 file = "options.txt"
