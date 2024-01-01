@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
@@ -293,4 +297,14 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
+metafile = true
+
+[[files]]
+file = "resourcepacks/New-Beginnings-Resources.pw.toml"
+hash = "c96c5dbc1aa5919ac107899c8f9a7ab6d806f5c3092f7d5886c5d4f178bce9db"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "f6fe8a4f133e177cf0c944e624bfe5e5d6dc553c1a9fff81e8f2b900f7aa62f9"
 metafile = true
