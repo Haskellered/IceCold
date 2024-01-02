@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "cf1a4c814745d49d84416a010a7c516cf5c07d8d41066337643377ee5e72cd3c"
-
-[[files]]
 file = "config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
