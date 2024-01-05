@@ -5,7 +5,11 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
-file = "config/puzzle.json"
+file = "config/yosbr/options.txt"
+hash = "3fae054ebc6aa2197618fd0e58a9b1091469af1822cd3b2a0ee7dd3e1a23cf33"
+
+[[files]]
+file = "config/yosbr/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
@@ -18,13 +22,23 @@ hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "bdee49ed5bd0f58601ea8d56101490f685e75540a7885b5bb50674df1f4dd328"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
 
 [[files]]
+file = "mods/bedrockwaters.pw.toml"
+hash = "ef19c47b968d01edf1d08b28343e005758ecdff419425685f2c7a30d9fb53369"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
+hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
 metafile = true
 
 [[files]]
@@ -50,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "daf48a25d5ba4874ac31164c6a0a473b2bf31e019abed76940eabe6d5623c07f"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "b749862ed7d44a7b2731064e8950b2d0e59d4c918d5ce4399beb2729f677ca4a"
 metafile = true
 
 [[files]]
@@ -89,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1dccc0ab54ee79019edad0688a37511c7a20fc856283bc1c205437e69e3584b3"
+hash = "88fe2cd2e5d5e50597e09f704ca21bc7ad499e65d4c043250e9bd9bef9ccd22c"
 metafile = true
 
 [[files]]
@@ -113,6 +132,11 @@ hash = "4d979c0f0902b82fc22fc60b741d3a9ce8331de9ffcc4f54658af92ff8ff8a81"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -120,6 +144,16 @@ metafile = true
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "286e364063d7f8766942060d4edd364418f4870c729f20e04975c3d38e09c58c"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "dc73621707877be400c3dc8ca4c4fe8bb54cabdac7ed25fef1270b79e3b25615"
 metafile = true
 
 [[files]]
@@ -138,8 +172,18 @@ hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
 metafile = true
 
 [[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "1bc74743327f85844df73f45f973fb5b394cd4abfef2ee8d0ca6383fc0d92c0b"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4b0dc5a4e66974885600acef784f425a6930a1fa4e6091a0b46eef65c063c215"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "31e865a65cb80e64b6a61954ea3552953f5a3fc94b9d314f168c94585cfb69a4"
 metafile = true
 
 [[files]]
@@ -194,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
+hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
 metafile = true
 
 [[files]]
@@ -218,6 +262,11 @@ hash = "45770ecaf858c3129788b94248bb28d0ed8eede97dfc94d5057b52963a67839f"
 metafile = true
 
 [[files]]
+file = "mods/pinglist.pw.toml"
+hash = "6ff50dfa8ba9b72cfde99e6796eeccc35b750574b6eebbc94a8673c052e26cbf"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
@@ -230,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "19e28ecacf134d011deca4b39a0189e4c827a77917815ebdeec0db9741c04e46"
 metafile = true
 
 [[files]]
@@ -303,13 +357,14 @@ hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "3fae054ebc6aa2197618fd0e58a9b1091469af1822cd3b2a0ee7dd3e1a23cf33"
+file = "mods/zoomify.pw.toml"
+hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
+metafile = true
 
 [[files]]
 file = "resourcepacks/New-Beginnings-Resources.pw.toml"
