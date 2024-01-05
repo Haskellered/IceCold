@@ -42,11 +42,6 @@ hash = "ef19c47b968d01edf1d08b28343e005758ecdff419425685f2c7a30d9fb53369"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "3822ac5d3cabda8f276067539162bf30718f7349c5486e9aa6255abc69a72cb8"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "f1483b219dd79b3b53bdf90ec2b43c61bac07ed6ce4841c97cdb4cbeb44ed734"
 metafile = true
@@ -299,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "45770ecaf858c3129788b94248bb28d0ed8eede97dfc94d5057b52963a67839f"
+metafile = true
+
+[[files]]
+file = "mods/pinglist.pw.toml"
+hash = "6ff50dfa8ba9b72cfde99e6796eeccc35b750574b6eebbc94a8673c052e26cbf"
 metafile = true
 
 [[files]]
