@@ -27,6 +27,11 @@ hash = "bdee49ed5bd0f58601ea8d56101490f685e75540a7885b5bb50674df1f4dd328"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "1cc6ab152f9c42805aacf8353c40761366f463c131160b768ba2037051132081"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
@@ -37,6 +42,16 @@ hash = "ef19c47b968d01edf1d08b28343e005758ecdff419425685f2c7a30d9fb53369"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3822ac5d3cabda8f276067539162bf30718f7349c5486e9aa6255abc69a72cb8"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "f1483b219dd79b3b53bdf90ec2b43c61bac07ed6ce4841c97cdb4cbeb44ed734"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
 metafile = true
@@ -44,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "c176a0f84b0c3c03423e68b988cd43f51a6b1cf13a844574b19e003324533da0"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.pw.toml"
+hash = "c668d8fb98ddd31f5cbdf6dcda2e8380ca4cc0e6977bcc392a4e97bfc13e1969"
 metafile = true
 
 [[files]]
@@ -152,6 +172,16 @@ hash = "286e364063d7f8766942060d4edd364418f4870c729f20e04975c3d38e09c58c"
 metafile = true
 
 [[files]]
+file = "mods/heracles.pw.toml"
+hash = "da490404debedd5439d0b12b9d585405a8bec58e6de6fd04b13ce5a806ceaca9"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+hash = "ba2392026d38355372006ed36ba6e43bd439a5094d74fd1e232098884d2e5d08"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dc73621707877be400c3dc8ca4c4fe8bb54cabdac7ed25fef1270b79e3b25615"
 metafile = true
@@ -192,6 +222,11 @@ hash = "10755740889792b2000c208c36962a111d32c60e4cc833ce085d994d5994331d"
 metafile = true
 
 [[files]]
+file = "mods/lanterns-bow.pw.toml"
+hash = "077bd2c2db737eec8e8c41b7faab34926cf96736e0d946cb4e1bb33db84857bf"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -214,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "eb9ed14436b79290cec3dfe2a87c0b32d0f369859ceb98834a24ee580c61da88"
 metafile = true
 
 [[files]]
@@ -262,11 +302,6 @@ hash = "45770ecaf858c3129788b94248bb28d0ed8eede97dfc94d5057b52963a67839f"
 metafile = true
 
 [[files]]
-file = "mods/pinglist.pw.toml"
-hash = "6ff50dfa8ba9b72cfde99e6796eeccc35b750574b6eebbc94a8673c052e26cbf"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
@@ -279,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d46e35e622bb294b9c478253e332b4189c0dfc61b44d5b593adf770eba029075"
 metafile = true
 
 [[files]]
@@ -309,6 +349,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "7f148daee130716f4c5160113e635a6d067c28944994f84d2471beba4d9c2842"
 metafile = true
 
 [[files]]
