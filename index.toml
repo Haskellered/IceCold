@@ -27,11 +27,6 @@ hash = "bdee49ed5bd0f58601ea8d56101490f685e75540a7885b5bb50674df1f4dd328"
 metafile = true
 
 [[files]]
-file = "mods/argonauts.pw.toml"
-hash = "1cc6ab152f9c42805aacf8353c40761366f463c131160b768ba2037051132081"
-metafile = true
-
-[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
@@ -84,11 +79,6 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "b749862ed7d44a7b2731064e8950b2d0e59d4c918d5ce4399beb2729f677ca4a"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
 metafile = true
 
 [[files]]
@@ -164,11 +154,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "286e364063d7f8766942060d4edd364418f4870c729f20e04975c3d38e09c58c"
-metafile = true
-
-[[files]]
-file = "mods/heracles.pw.toml"
-hash = "da490404debedd5439d0b12b9d585405a8bec58e6de6fd04b13ce5a806ceaca9"
 metafile = true
 
 [[files]]
@@ -389,11 +374,6 @@ metafile = true
 [[files]]
 file = "mods/world-host.pw.toml"
 hash = "1284253b3e1f796b85023c5788ddd3e90f1331b44d67ecd13eb7f999b64b2683"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "4057c0fdb25404da099b5cf257bf20a4f14ec2d9f94be425104eb59974a54c80"
 metafile = true
 
 [[files]]
