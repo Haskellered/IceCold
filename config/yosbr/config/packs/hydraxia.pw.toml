@@ -1,0 +1,11 @@
+name = "Hydraxia"
+filename = "Hydraxia-v0.2.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Haskellered/Hydraxia/releases/download/v0.2.2/Hydraxia-v0.2.2.zip"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "45b7fc5fd8a920ad78e64734802d6c89abef8d63e2556d15b95b70ac13adfd7c"

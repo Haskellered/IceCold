@@ -5,8 +5,9 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "3fae054ebc6aa2197618fd0e58a9b1091469af1822cd3b2a0ee7dd3e1a23cf33"
+file = "config/yosbr/config/packs/hydraxia.pw.toml"
+hash = "2ee9a96432a5c2c12c2659179fa1b9eb01657f662cc22d4fe26a230a44d1a4f3"
+metafile = true
 
 [[files]]
 file = "config/yosbr/puzzle.json"
@@ -157,6 +158,11 @@ hash = "d1e32ea50e119b059ffe57b2785625679cf04641dfa2d7189197f09eb63aa7f7"
 metafile = true
 
 [[files]]
+file = "mods/frostiful.pw.toml"
+hash = "36e1084275fa3306800f7158d101884467f4bccae3ad9ce5c918931ca1c56b4c"
+metafile = true
+
+[[files]]
 file = "mods/highlight.pw.toml"
 hash = "ba2392026d38355372006ed36ba6e43bd439a5094d74fd1e232098884d2e5d08"
 metafile = true
@@ -169,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "c1b5c4e32953b35fed5caf375451543fa3315385b956cf9cb49dcb032e972fb6"
 metafile = true
 
 [[files]]
@@ -229,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "cf993df07eb3dbe0957ebb38a5b4ff355383af3f652a777e6c7341f777688651"
 metafile = true
 
 [[files]]
@@ -317,6 +333,11 @@ hash = "a7f630a0bfaab465232fa0f3f5c492b707c32750e35fca512ca5e039ae04b912"
 metafile = true
 
 [[files]]
+file = "mods/scorchful.pw.toml"
+hash = "13f78b9ed8a5a77cce25e0a87c7cceef0fe70241e6b559387a5c061b48bffbb3"
+metafile = true
+
+[[files]]
 file = "mods/shuffle.pw.toml"
 hash = "9e47928ab7768a858ee6fec0e18ab3f501f93af13ccff2cde4ea3a1e316df2dd"
 metafile = true
@@ -349,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/terra.pw.toml"
 hash = "126dc9348e492def3c788c08a4c64b609475f5a02dbd61ef181962f992e23cd7"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "485bf9be5c5217f2332e3da6ac5eeb04145e6ab6dfcecc194dbf4dbd81b61c30"
 metafile = true
 
 [[files]]
@@ -400,3 +426,7 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "7690c5ea05d1c3ef67ed94bb05be1bd2b269797a4a9c1c254d198819983e86ff"
