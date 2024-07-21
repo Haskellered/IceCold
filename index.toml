@@ -14,10 +14,6 @@ file = "config/yosbr/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
-file = "icon.png"
-hash = "064b1858660d849d0f6181793e52b040162bb319deb3766440095725afb83d3e"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
@@ -50,6 +46,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "54aafd7cfed7d028885daef6000ea20896e6bcf228dfb793d688b07af82f4d0f"
 metafile = true
 
 [[files]]
@@ -240,11 +241,6 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
-metafile = true
-
-[[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
 metafile = true
 
 [[files]]
