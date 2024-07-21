@@ -62,6 +62,11 @@ file = "config/yosbr/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "42641ad046d417668f6118db76da9b74cb94b5e6e84dbc5139c0b4a47517cffc"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
 metafile = true
