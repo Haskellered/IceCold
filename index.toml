@@ -23,7 +23,7 @@ hash = "ff436e3979f2bfa8ca992d9416858828035678cc5b0c2fd1f2331babf19caf41"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout.txt"
-hash = "ff18deb72ee22b9c2526ff537bf767c4edc296e945b2444c9d99140d060fe98d"
+hash = "48060d02e7c4ba38eaab3f3291ac13ee07b08801580d251b0990f80ded260f21"
 
 [[files]]
 file = "config/fancymenu/customization/create_world_screen_layout_1.txt"
@@ -134,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "ecec0239f8c89579750cbd318855f83338f2369e7d098b70298dfb8a1ea9dd94"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "9e3edbc66f06eac2f4486b52223cd19ad80a4c967162615959ddd183064d0f12"
 metafile = true
 
 [[files]]
@@ -434,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "7f148daee130716f4c5160113e635a6d067c28944994f84d2471beba4d9c2842"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
 metafile = true
 
 [[files]]
