@@ -397,11 +397,6 @@ hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
 
 [[files]]
-file = "resourcepacks/New-Beginnings-Resources.pw.toml"
-hash = "c96c5dbc1aa5919ac107899c8f9a7ab6d806f5c3092f7d5886c5d4f178bce9db"
-metafile = true
-
-[[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
