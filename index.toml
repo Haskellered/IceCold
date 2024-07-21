@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "9629697abb8f46b3fa0b7257e323c3d9561acd60732bd8a4235fb00e3c933b44"
+hash = "aae151d761e2b51ee211850760daf303f300fc0df3987a6e8a9a571210652f0c"
 metafile = true
 
 [[files]]
