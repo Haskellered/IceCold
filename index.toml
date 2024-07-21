@@ -147,6 +147,11 @@ hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "16f96bbdee19f6401ff372600b7e76cc1fb6ad8d5a2a116a96be45f875109da9"
+metafile = true
+
+[[files]]
 file = "mods/custom-default-world-preset.pw.toml"
 hash = "52e72cf93d46f5067ec17827617029d52f13afe9b4b1de3871f74b3f70358cc1"
 metafile = true
@@ -434,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/scorchful.pw.toml"
 hash = "13f78b9ed8a5a77cce25e0a87c7cceef0fe70241e6b559387a5c061b48bffbb3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "4e80c51d4696f6a52f7940bfec2dd1728f59b85e8dbd72eee876d61eb946f568"
 metafile = true
 
 [[files]]
