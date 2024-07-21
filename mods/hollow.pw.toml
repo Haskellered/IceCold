@@ -1,0 +1,13 @@
+name = "Hollow"
+filename = "Hollow.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EQovXCIt/versions/twCQHWOS/Hollow.jar"
+hash-format = "sha1"
+hash = "11dfb1b811e21a36fbee08963ea1660be30d7645"
+
+[update]
+[update.modrinth]
+mod-id = "EQovXCIt"
+version = "twCQHWOS"
