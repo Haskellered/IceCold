@@ -10,6 +10,54 @@ hash = "2ee9a96432a5c2c12c2659179fa1b9eb01657f662cc22d4fe26a230a44d1a4f3"
 metafile = true
 
 [[files]]
+file = "config/default_world_preset.txt"
+hash = "aecf0e5a9fb9cddd59a71c4dbf87d571c367834040e8e5b56ececd39897a2307"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "ff436e3979f2bfa8ca992d9416858828035678cc5b0c2fd1f2331babf19caf41"
+
+[[files]]
+file = "config/fancymenu/customization/create_world_screen_layout.txt"
+hash = "ff18deb72ee22b9c2526ff537bf767c4edc296e945b2444c9d99140d060fe98d"
+
+[[files]]
+file = "config/fancymenu/customization/create_world_screen_layout_1.txt"
+hash = "9ec0da95f27a86826aca6ba98fafd6dc12850e0f109560c4b2117c490e0cecc6"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d80486d23e292de8b8da86b7db1d5be1868dd96758f90b089ee76d0311b21b90"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "470612d42d580a5d4892d8bf64116607e9e96a3e16b12c37a698f6d36ac55b55"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "249102844e8299802a886af86117b90aeac9d94759222a479df1d4bd2b2d743a"
+
+[[files]]
 file = "config/yosbr/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
