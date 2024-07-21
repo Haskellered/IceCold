@@ -182,6 +182,11 @@ hash = "0f4d0a39eb5ba73e8cd1eecb7ec6fd2fcfca53fa537a75929b691f9e903b3394"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshaircompat.pw.toml"
+hash = "4037c6b65a54a6348b5064985163f9b10aa3eead80a69b666b2228b1c911490f"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "78eae6c50ce595dc5e41b3be58f84218f614b8934e72d1f22348aa4bfa66f133"
 metafile = true
