@@ -143,6 +143,11 @@ hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "13373bb525542509161a7e4227e7e6b5da40913d99e7b5bee5da107de9c228b8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -213,6 +218,11 @@ hash = "10755740889792b2000c208c36962a111d32c60e4cc833ce085d994d5994331d"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34a79329e512a6a7a8476e9d3bbdca8c076e73cbc38429bef9a5654dfd846a63"
+metafile = true
+
+[[files]]
 file = "mods/lanterns-bow.pw.toml"
 hash = "eaa68ce6d09b79eea6866a238aa2513b5e8e2db96a4e4cc74a0eaffb6b045e49"
 metafile = true
@@ -225,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "faa593cd9009ce4b192333b03ca42dd911f085d5f03fae06f88a45ed0b539023"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
