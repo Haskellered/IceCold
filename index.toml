@@ -197,6 +197,11 @@ hash = "333bf640fd4b8b7942ed7900b172c2a2fd3b9da1ddcdd52886dfc2aa79a37e49"
 metafile = true
 
 [[files]]
+file = "mods/emitrades.pw.toml"
+hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "e0024a1ca07a6a4c44eb815049e9a69b89bac1626f5b8ad644421192a158de4a"
 metafile = true
@@ -534,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "b33d7e2107f39202f200be55051457551aaf4b389af68aa8f417a140f3e6e260"
 metafile = true
 
 [[files]]
