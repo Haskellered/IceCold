@@ -77,6 +77,11 @@ hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
+metafile = true
+
+[[files]]
 file = "mods/bedrockwaters.pw.toml"
 hash = "1729ab53f7dfc3b7be8a178377a5e327d81c792c274d79737ab874fafba0ceb3"
 metafile = true
@@ -467,13 +472,23 @@ hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
 hash = "c67e2c95dee4a96e10e45eb842fdf362356cf72a5dd1fc750df38749edfc9031"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "41db0409f979462a7ed0bfe765dca0ed8d20250b3cc3ab4c7cfc7d7c5e53f2cd"
+hash = "d51319ac7b9e0fdedb835346c235748b0a0ceade7277356a7510840d460d05e9"
 metafile = true
 
 [[files]]
