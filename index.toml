@@ -197,6 +197,11 @@ hash = "333bf640fd4b8b7942ed7900b172c2a2fd3b9da1ddcdd52886dfc2aa79a37e49"
 metafile = true
 
 [[files]]
+file = "mods/emienchants.pw.toml"
+hash = "e395cd7042592ab28ff8de5d89bd1070cce98c60cef43dc18d1dfe3e34546634"
+metafile = true
+
+[[files]]
 file = "mods/emitrades.pw.toml"
 hash = "28e274fb3b75d8e2604eab07f9ea6e9d663fa8a24aeafce09bdbfe5d3a88fac5"
 metafile = true
