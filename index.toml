@@ -5,7 +5,7 @@ file = "LICENSE"
 hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
 
 [[files]]
-file = "config/yosbr/config/packs/hydraxia.pw.toml"
+file = "config/Terra/packs/hydraxia.pw.toml"
 hash = "2ee9a96432a5c2c12c2659179fa1b9eb01657f662cc22d4fe26a230a44d1a4f3"
 metafile = true
 
