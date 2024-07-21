@@ -162,6 +162,11 @@ hash = "ecec0239f8c89579750cbd318855f83338f2369e7d098b70298dfb8a1ea9dd94"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "03024e8fd4684f25d3b1e3984d219f71540bf5272ccb669e34f59404c17961b7"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "9e3edbc66f06eac2f4486b52223cd19ad80a4c967162615959ddd183064d0f12"
 metafile = true
