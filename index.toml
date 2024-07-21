@@ -412,11 +412,6 @@ hash = "9e47928ab7768a858ee6fec0e18ab3f501f93af13ccff2cde4ea3a1e316df2dd"
 metafile = true
 
 [[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
