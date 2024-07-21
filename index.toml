@@ -122,11 +122,6 @@ hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "fc09cd395ba29b96def903ac492ce28eafcb7dc659c2cb22eea9764490478d17"
-metafile = true
-
-[[files]]
 file = "mods/custom-default-world-preset.pw.toml"
 hash = "52e72cf93d46f5067ec17827617029d52f13afe9b4b1de3871f74b3f70358cc1"
 metafile = true
