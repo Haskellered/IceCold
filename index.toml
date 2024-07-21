@@ -32,11 +32,6 @@ hash = "68d255561f7f5297ae05c347e3e531e7b22cbc3f5d1f6a86dd153c004622d39b"
 metafile = true
 
 [[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "1729ab53f7dfc3b7be8a178377a5e327d81c792c274d79737ab874fafba0ceb3"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
 metafile = true
@@ -49,11 +44,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
-metafile = true
-
-[[files]]
-file = "mods/cleancut.pw.toml"
-hash = "c668d8fb98ddd31f5cbdf6dcda2e8380ca4cc0e6977bcc392a4e97bfc13e1969"
 metafile = true
 
 [[files]]
@@ -162,6 +152,11 @@ hash = "547225155c3cabf5c8d170e13f8873f95ef9705478a5acd0de1d77126ccf5cc7"
 metafile = true
 
 [[files]]
+file = "mods/hollow.pw.toml"
+hash = "4d6138f8d2ab10c9ae9435d3662c6a5e329816bd34acd06da0b75682eb0a617d"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dc73621707877be400c3dc8ca4c4fe8bb54cabdac7ed25fef1270b79e3b25615"
 metafile = true
@@ -202,11 +197,6 @@ hash = "9cef29a223b31805eee18ddd97211a4876acc87cda957402211e4db0972bf56d"
 metafile = true
 
 [[files]]
-file = "mods/lanterns-bow.pw.toml"
-hash = "eaa68ce6d09b79eea6866a238aa2513b5e8e2db96a4e4cc74a0eaffb6b045e49"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
@@ -214,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "3b0d2f55926c70248f9a81836503b3d67c0e1b8f6e12de718856f30f45dc88b2"
-metafile = true
-
-[[files]]
-file = "mods/mod-loading-screen.pw.toml"
-hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
 metafile = true
 
 [[files]]
@@ -337,11 +322,6 @@ hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
 metafile = true
 
 [[files]]
-file = "mods/statement.pw.toml"
-hash = "1aac9c6e5f50c67f4586862f05fc5b8a7ac5df889b6774d80e14f5fab47f2db7"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "563199dd7474844a71797be5114c798df3ded2d7bc0c9d384d9fd4aaa1b831b9"
 metafile = true
@@ -349,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/terra.pw.toml"
 hash = "126dc9348e492def3c788c08a4c64b609475f5a02dbd61ef181962f992e23cd7"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
 
 [[files]]
@@ -405,3 +380,7 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "7690c5ea05d1c3ef67ed94bb05be1bd2b269797a4a9c1c254d198819983e86ff"
