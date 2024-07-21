@@ -1,13 +1,13 @@
 name = "Saplanting"
-filename = "saplanting-fabric-1.20.4-1.2.6.jar"
+filename = "saplanting-fabric-1.21-1.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vo4uFiz0/versions/4SMA2MkW/saplanting-fabric-1.20.4-1.2.6.jar"
+url = "https://cdn.modrinth.com/data/Vo4uFiz0/versions/NNY19c1k/saplanting-fabric-1.21-1.2.6.jar"
 hash-format = "sha1"
-hash = "e338385412dbf1d4f110e3842c512543d6855420"
+hash = "ca7393cab82b5945c903aa00f0afa81d33ff11fa"
 
 [update]
 [update.modrinth]
 mod-id = "Vo4uFiz0"
-version = "4SMA2MkW"
+version = "NNY19c1k"
