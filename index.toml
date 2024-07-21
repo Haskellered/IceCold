@@ -502,6 +502,11 @@ hash = "9629697abb8f46b3fa0b7257e323c3d9561acd60732bd8a4235fb00e3c933b44"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "9b42989d1485831cb2c269c9fe6118b6dfc80397e050b3e79cfeca4e1d626b45"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "84760358262cc7ab63eefbaf3dc3286f2b27497e1c5a224ea3d82f80889d17d7"
 metafile = true
