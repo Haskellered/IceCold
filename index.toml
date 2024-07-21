@@ -267,6 +267,11 @@ hash = "10755740889792b2000c208c36962a111d32c60e4cc833ce085d994d5994331d"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "b201ce19ba584d70792b9c6f3372a00e054941aa2cdbfdbca5f19ff4e2350477"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "34a79329e512a6a7a8476e9d3bbdca8c076e73cbc38429bef9a5654dfd846a63"
 metafile = true
@@ -399,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/shuffle.pw.toml"
 hash = "9e47928ab7768a858ee6fec0e18ab3f501f93af13ccff2cde4ea3a1e316df2dd"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
 
 [[files]]
