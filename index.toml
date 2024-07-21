@@ -597,6 +597,11 @@ hash = "8f224516fc97891bd5afbfb890adfe0f10ce37b2ce6df6963513fe71e4da6803"
 metafile = true
 
 [[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "3e196c1b30586d8fbcf576cb87f0d9052d9e3bc102e873ab2e3b4dad49a6b7b5"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
