@@ -382,6 +382,11 @@ hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "37f4b7bb2eec4091e491d1e8465bec8a971a251a29497be5a18b5418ecbde5bb"
+metafile = true
+
+[[files]]
 file = "mods/old-mc-logo.pw.toml"
 hash = "7252eb1f8f89df8e8cb17ea7ab6ed3f97bd8c4f7668a4e5d09da4ac9ad9d6f18"
 metafile = true
